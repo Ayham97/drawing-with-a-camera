@@ -8,4 +8,4 @@ c : to choose point for corner
 q : exit
 l : clean
 r : draw rectangle choose center and then radios
-a : draw circle choose upright corner then downleft corer
+a : draw circle choose upleft corner then downright corer
